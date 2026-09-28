@@ -159,10 +159,10 @@ If you find this repository useful or want to support my DSA journey, consider g
 
 ## 🔗 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn profile]
-* 🐙 GitHub: [Add your GitHub profile]
-* 📚 LeetCode: [Add your LeetCode profile]
-* 🟢 GeeksforGeeks: [Add your GFG profile]
+* 💼 LinkedIn:[https://www.linkedin.com/in/shlok-pandey-b27597388/]
+* 🐙 GitHub: [https://github.com/codewithshlok1403]
+* 📚 LeetCode: [https://leetcode.com/u/codewithshlok1403/]
+* 🟢 GeeksforGeeks: [https://www.geeksforgeeks.org/profile/shlokpan2dcy]
 
 ---
 
