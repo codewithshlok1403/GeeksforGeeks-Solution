@@ -1,0 +1,27 @@
+/* Structure of Binary Tree Node
+class Node {
+    int data;
+    Node left, right;
+    Node(int item){
+        data = item;
+        left = right = null;
+    }
+}*/
+
+class Solution {
+    public void dfs(Node root,ArrayList<Integer> ans) {
+        // code here
+        if(root==null) return;
+        dfs(root.left,ans);
+        ans.add(root.data);
+        dfs(root.right,ans);
+        
+    }
+    public ArrayList<Integer> inOrder(Node root) {
+        // code here
+        ArrayList<Integer> ans=new ArrayList<>();
+        dfs(root,ans);
+        return ans;
+        
+    }
+}
