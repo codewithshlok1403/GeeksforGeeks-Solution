@@ -1,4 +1,4 @@
-# 📚 GeeksforGeeks Solutions — Java
+# 📚 GeeksforGeeks Solutions — 
 
 A collection of my **GeeksforGeeks (GFG) solutions written in Java**, created as part of my journey to master **Data Structures & Algorithms (DSA)** through consistent practice, problem-solving, and optimization.
 
@@ -80,7 +80,7 @@ Problems are organized according to their **DSA topic**, making it easier to rev
 * Graph
 * Greedy Algorithms
 * Dynamic Programming
-* And more...
+* And more..
 
 ---
 
